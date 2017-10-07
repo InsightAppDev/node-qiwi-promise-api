@@ -6,7 +6,7 @@ Get started
 ----------------
 Для начала вам необходимо получить токен на сайте [Qiwi](https://qiwi.com/api).
 ```
-npm install node-qiwi-api
+npm install node-qiwi-promise-api
 ```
 Инициализируйте новый кошелек с выданным токеном:
 ```js
