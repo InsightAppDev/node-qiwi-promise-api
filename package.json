@@ -1,0 +1,15 @@
+{
+  "name": "node-qiwi-promise-api",
+  "version": "0.0.1",
+  /* "main": "node-qiwi-promise-api", */
+  "dependencies": {
+    "request": "2.83.0",
+    "request-promise": "4.2.2"
+  },
+  "keywords": [
+    "QIWI",
+    "Promise",
+    "Wallet"
+  ],
+  "author": "Sergey Nazarov, insight.appdev@gmail.com"
+}
