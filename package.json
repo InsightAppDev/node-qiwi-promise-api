@@ -11,5 +11,9 @@
     "Promise",
     "Wallet"
   ],
+  "bugs": {
+    "url": "https://github.com/InsightAppDev/node-qiwi-promise-api/issues"
+  },
+  "homepage": "https://github.com/InsightAppDev/node-qiwi-promise-api",
   "author": "Sergey Nazarov, insight.appdev@gmail.com"
 }
